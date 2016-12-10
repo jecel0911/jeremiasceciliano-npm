@@ -1,0 +1,15 @@
+{
+  "name": "jeremiasceciliano",
+  "version": "1.0.0",
+  "description": "Jeremias Ceciliano - Software Craftsman",
+  "author": "Jeremias Ceciliano",
+  "main": "./index.json",
+  "scripts": {
+    "postinstall": "cat index.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "license": "MIT"
+}
